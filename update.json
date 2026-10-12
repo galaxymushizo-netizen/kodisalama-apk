@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "apk": "https://github.com/galaxymushizo-netizen/kodisalama-apk/releases/download/v1.2.1/KodiSalama-v1.2.1.apk",
-  "notes": "Update checker sasa inatumia GitHub Pages - hakuna Vercel required"
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "apk": "https://github.com/galaxymushizo-netizen/kodisalama-apk/releases/download/v1.2.2/KodiSalama-v1.2.2.apk",
+  "notes": "Nembo ya Tanzania kwenye mkataba + PDF printing + WhatsApp/SMS sharing fixes"
 }
