@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "apk": "https://github.com/galaxymushizo-netizen/kodisalama-apk/releases/download/v1.2.2/KodiSalama-v1.2.2.apk",
-  "notes": "Nembo ya Tanzania kwenye mkataba + PDF printing + WhatsApp/SMS sharing fixes"
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "apk": "https://github.com/galaxymushizo-netizen/kodisalama-apk/releases/download/v1.2.3/KodiSalama-v1.2.3.apk",
+  "notes": "Hotfix: Crash imefikiwa - nembo ya Tanzania kwenye mkataba iko tayari"
 }
