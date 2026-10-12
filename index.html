@@ -3301,7 +3301,7 @@ const SmsModule = {
     }
 
     if (directSmsBtn) {
-      directSmsBtn.href = `intent://${tenant.phoneNumber}/#Intent;scheme=sms;body=${encodedText};end`;
+      directSmsBtn.href = `sms:${tenant.phoneNumber}?body=${encodedText}`;
     }
   },
 
