@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apk": "https://github.com/galaxymushizo-netizen/kodisalama-apk/releases/download/v1.2.0/KodiSalama-complete.apk",
-  "notes": "Complete release - Icon ya custom + Coat of arms fix + Business notifications"
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "apk": "https://github.com/galaxymushizo-netizen/kodisalama-apk/releases/download/v1.2.1/KodiSalama-v1.2.1.apk",
+  "notes": "Update checker sasa inatumia GitHub Pages - hakuna Vercel required"
 }
